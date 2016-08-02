@@ -6,16 +6,16 @@ markdown: kramdown
 author:
   name: Tan Wu
   email: 270927331@qq.com
-  link: http://wanggangshan.github.io
+  link: http://WangBaLiang.github.io
   # weibo: http://weibo.com/orangeissweet
-  github: http://github.com/wanggangshan
+  github: http://github.com/WangBaLiang
   # music: http://site.douban.com/linanya
   # linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
 title: 学习漫漫
 description: My personal blog
-url: http://wanggangshan.github.io
+url: http://WangBaLiang.github.io
 # rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -29,7 +29,7 @@ favicon: /public/img/deer3.png
 
 # disqus 设置
 disqus:
-  shortname: wanggangshan
+  shortname: WangBaLiang
 
 # 主题设置，自动激活某个标签
 active: 编程
